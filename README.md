@@ -1,4 +1,4 @@
-# Egg Timer iOS App
+# Egg Timer iOS App by Nurgazinov Daniyal
 
 ## Description
 The **Egg Timer** app is a simple and easy-to-use iOS application that allows users to set timers for soft-boiled, medium-boiled, and hard-boiled eggs. The app provides real-time progress updates with a progress bar and plays an alarm sound when the timer finishes.
